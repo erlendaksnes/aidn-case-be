@@ -1,0 +1,6 @@
+@aidn_case_be_HostAddress = http://localhost:5224
+
+GET {{aidn_case_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

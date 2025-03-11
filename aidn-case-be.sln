@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aidn-case-be", "aidn-case-be.csproj", "{5731C37F-629C-9E59-0159-0934AE840921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5731C37F-629C-9E59-0159-0934AE840921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5731C37F-629C-9E59-0159-0934AE840921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5731C37F-629C-9E59-0159-0934AE840921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5731C37F-629C-9E59-0159-0934AE840921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B517751C-92B2-42EE-BDC1-189EAAE1BD02}
+	EndGlobalSection
+EndGlobal

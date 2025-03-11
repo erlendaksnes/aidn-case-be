@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l6b0kp9uvZzvey6x6Cdc3LDVjIhNq4dFzxc8bp98fgw=",
+  "Source": "aidn-case-be",
+  "BasePath": "_content/aidn-case-be",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
